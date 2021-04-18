@@ -14,13 +14,19 @@
      🎮  Gaming (Mobile and PC)
      📚  reading or listening
      
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning 
+      Dart
+      Flutter
+      
+- 💞️ I’m looking to collaborate on 
+      Design
+      Web Dev Projects
+      
 - 📫 How to reach me 
-+College   - Graphic Era Hill University,Dehradun
-+Facebook  - yashkalyan.in
-+Instagram - _yashkalyan
-+Twitter   - _yashkalyan
+     +College   - Graphic Era Hill University,Dehradun
+     +Facebook  - https://www.facebook.com/yashkalyan.in
+     +Instagram - https://www.instagram.com/_yashkalyan/
+     +Twitter   - https://twitter.com/yash_kalyan
 
 
 
