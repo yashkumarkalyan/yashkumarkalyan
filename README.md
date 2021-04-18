@@ -7,7 +7,8 @@
      💻  Programming,(always practising)
      👷‍ Development App and Web,(always learning new stuff)
      🎢  UI/UX User Interface and Expereince,(design and creativity skills and what user needs)
--👓
+     
+- 👓
      My Hobbies are
      🌏  Geography,Politics,Law ,(learning about culture, country and world)
      🎮  Gaming (Mobile and PC)
